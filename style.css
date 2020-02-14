@@ -23,11 +23,19 @@ nav {
   margin: 20px;
 }
 
-div.Contact{
+div.contact{
   display: inline-block;
   margin-right: 50px;
 }
 
-div.Correspondence {
+div.correspondence {
   display: inline-block;
+}
+
+div.links{
+  text-align: center;
+}
+
+div.follow {
+  text-align: center;
 }
