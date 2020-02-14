@@ -16,7 +16,7 @@ nav {
   display: flex;
   justify-content: space-around;
   font-family: Calibri;
-  font-style: bold;
+  font-style: oblique;
 }
 
 #featured-property {
