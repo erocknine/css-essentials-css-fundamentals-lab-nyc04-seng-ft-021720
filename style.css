@@ -31,12 +31,15 @@ div.contact{
 
 div.correspondence {
   display: inline-block;
+  margin-right: 50px;
 }
 
 div.links{
   display: inline-block;
+  margin-right: 50px;
 }
 
 div.follow {
   display: inline-block;
+  margin-right: 50px;
 }
