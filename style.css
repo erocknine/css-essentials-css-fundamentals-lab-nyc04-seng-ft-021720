@@ -23,10 +23,11 @@ nav {
   margin: 20px;
 }
 
-div.contact{
+div.Contact{
   display: inline-block;
   background: teal;
 }
+
 div.Correspondence {
   display: inline-block;
 }
