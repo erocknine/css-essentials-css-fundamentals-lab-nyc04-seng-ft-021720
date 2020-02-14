@@ -34,9 +34,9 @@ div.correspondence {
 }
 
 div.links{
-  text-align: center;
+  display: inline-block;
 }
 
 div.follow {
-  text-align: center;
+  display: inline-block;
 }
