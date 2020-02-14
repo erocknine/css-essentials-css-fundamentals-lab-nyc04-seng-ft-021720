@@ -13,3 +13,7 @@ nav {
   width: auto;
   text-align: center;
 }
+
+section~p {
+  text-align: center;
+}
